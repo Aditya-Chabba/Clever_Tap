@@ -9,7 +9,7 @@ https://developer.clevertap.com/docs/web-quickstart-guide
 Frontend
 
 # Deployment Link
-https://clevertapwebintegration.netlify.app/
+https://clevertapwebintegration01.netlify.app/
 
 # Directory Structure
 Single Page ( Signup )
